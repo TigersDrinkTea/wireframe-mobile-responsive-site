@@ -1,1 +1,2 @@
-TinDog Starting Files
+The first thing I ever built. A tinder clone designed to be mobile responsive.
+This was made as part of the App Brewwerys 2019 Complete Web Developer Booptcamp. Created using HTML, CSS and Bootstrap. It isnt refactored and is currently raw as it was my first ever experience building anything (which I loved, as you were left to figure out how to complete all tasks yourself, which was terrifying and completely addictive) and as such as my skills progress I will update and add functionality; as I have a project I am going to utilise the skeleton of the site for. As I progress in to JavaScript I will add functionality. 
